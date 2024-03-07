@@ -1,0 +1,7 @@
+medical_ner_venv/*
+model-last/*
+model-best/*
+model-best/vocab/vectors
+train.spacy
+test.spacy
+.ipynb_checkpoints/*
