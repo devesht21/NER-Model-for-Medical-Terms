@@ -11,7 +11,6 @@ Efficiently Identify and Extract Medical Entities from Text Data for Enhanced An
 ## Technologies
 
 - python
-- scikit-learn
 - spacy
 - flask
 
