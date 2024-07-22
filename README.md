@@ -1,6 +1,6 @@
 # Custom NER Model for Medical Terms
 
-Efficiently Identify and Extract Medical Entities from Text Data for Enhanced Analysis and Insights
+This Project is a sophisticated Named Entity Recognition (NER) system using SpaCy, a powerful natural language processing (NLP) library in Python. The project aimed to automatically identify and classify named entities in the medical languages such as medicines, diseases, etc.
 
 ## Screenshots
 
