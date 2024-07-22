@@ -79,7 +79,12 @@
       <p>
         <h3>Entities</h3>
         {% for para in text %}
-            <p>{{para}}</p>
+        {%if 'CHEMICAL' in para%}
+        <p>{{para}}</p>
+        {%else%}
+        <p>{{para}}</p>
+        {% endif %} 
+            
         {% endfor %}
       </p>
     </div>
